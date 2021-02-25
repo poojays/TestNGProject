@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="7" total="7" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10" started-at="2021-02-19T07:21:03 UTC" finished-at="2021-02-19T07:21:03 UTC">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="10" started-at="2021-02-19T07:21:03 UTC" finished-at="2021-02-19T07:21:03 UTC">
+    </test> <!-- LoginTest -->
+  </suite> <!-- Suite -->
+</testng-results>
